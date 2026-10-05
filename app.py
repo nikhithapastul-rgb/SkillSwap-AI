@@ -100,6 +100,21 @@ users = [
         "name": "Ananya",
         "teaches": ["Python", "Machine Learning"],
         "learns": ["Java"]
+    },
+    {
+        "name": "Priya",
+        "teaches": ["Excel", "Communication"],
+        "learns": ["Python"]
+    },
+    {
+        "name": "Arjun",
+        "teaches": ["Web Development", "Java"],
+        "learns": ["SQL"]
+    },
+    {
+        "name": "Sneha",
+        "teaches": ["SQL", "Python"],
+        "learns": ["Web Development"]
     }
 ]
 
